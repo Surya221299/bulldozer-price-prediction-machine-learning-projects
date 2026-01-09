@@ -63,13 +63,12 @@ The notebook is structured to follow a learning-friendly ML pipeline.
 - Identifying patterns and anomalies
 
 3. Feature Engineering
-
-Extracted features from saledate:
-- Year
-- Month
-- Day
-- Day of week
-- Day of year
+  Extracted features from saledate:
+  - Year
+  - Month
+  - Day
+  - Day of week
+  - Day of year
 
 This step helps the model understand temporal patterns in pricing.
 
@@ -78,7 +77,7 @@ This step helps the model understand temporal patterns in pricing.
 - Categorical features filled using most frequent value
 - Ensures consistency between training, validation, and test sets
 
-🤖 Model
+## Model
 Algorithm Used
 - RandomForestRegressor
 
@@ -145,7 +144,9 @@ This repository is intended for:
 ## Author
 
 Surya Ramadhani
+
 Apple Developer Academy @Infinite Learning Graduade Cohort 2025
+
 Machine Learning Enthusiast
 
 This project is part of my journey in understanding and implementing machine learning concepts through real datasets.
