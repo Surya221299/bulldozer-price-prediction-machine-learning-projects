@@ -134,12 +134,12 @@ This repository is intended for:
 
 ## What This Project Demonstrates
 
-✔ End-to-end ML workflow
-✔ Time series–aware modeling
-✔ Proper data leakage prevention
-✔ Feature engineering skills
-✔ Model evaluation using appropriate metrics
-✔ Clean, readable, and reproducible code
+- End-to-end ML workflow
+- Time series–aware modeling
+- Proper data leakage prevention
+- Feature engineering skills
+- Model evaluation using appropriate metrics
+- Clean, readable, and reproducible code
 
 ## Author
 
