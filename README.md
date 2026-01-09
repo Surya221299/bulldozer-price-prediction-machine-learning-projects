@@ -31,8 +31,6 @@ Through this project, I aimed to learn and practice:
 
 This project prioritizes process and understanding over leaderboard performance.
 
-<img width="237" height="388" alt="prediction format" src="https://github.com/user-attachments/assets/e7f78ff6-837f-4841-a84e-0d4a3229208c" />
-
 ## Dataset
 Source: Kaggle – [Bluebook for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers/data)
 
@@ -96,6 +94,8 @@ Chosen because:
 - Requires minimal feature scaling
 - Provides feature importance for learning purposes
 
+<img width="302" height="112" alt="Screenshot 2026-01-09 at 19 01 45" src="https://github.com/user-attachments/assets/7a4919f2-3596-49d2-963a-5149a6cc2983" />
+
 Hyperparameters:
 - n_estimators
 - max_features
@@ -104,6 +104,9 @@ Hyperparameters:
 - n_jobs = -1 (parallel processing)
 
 ## Evaluation
+
+<img width="237" height="388" alt="prediction format" src="https://github.com/user-attachments/assets/b28ab2d5-a265-4c6e-a7c2-b366e85ba71d" />
+
 Metric
 RMSLE (Root Mean Squared Log Error)
 
@@ -116,6 +119,8 @@ Why RMSLE?
 The goal here is understanding model behavior, not perfect accuracy.
 
 ## Model Interpretation
+
+<img width="509" height="263" alt="Screenshot 2026-01-09 at 19 04 32" src="https://github.com/user-attachments/assets/dfa9e489-d760-4c11-9dbb-77d3479fa12f" />
 
 Feature importance analysis is used to:
 
