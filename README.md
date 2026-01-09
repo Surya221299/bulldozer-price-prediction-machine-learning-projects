@@ -1,6 +1,9 @@
 # Bulldozer Sale Price Prediction  – Time Series Machine Learning
 Learning & Implementation – Time Series Machine Learning
 
+<img width="749" height="436" alt="Screenshot 2026-01-09 at 18 45 21" src="https://github.com/user-attachments/assets/463f5bc4-d461-4f59-be0b-06d8309d6105" />
+
+
 ## Project Purpose
 
 This project is created as a learning-oriented, hands-on implementation of an end-to-end machine learning workflow using a real-world dataset.
@@ -12,6 +15,8 @@ The main focus is understanding and practicing:
 - How to build, evaluate, and interpret a regression model step by step
 
 Dataset used: Kaggle Bluebook for Bulldozers https://www.kaggle.com/c/bluebook-for-bulldozers/data
+
+<img width="630" height="431" alt="plot scatter saledate and SalePrice" src="https://github.com/user-attachments/assets/a7ef2689-ada5-4b1a-a9fd-8d15a035cdb8" />
 
 ## Learning Objectives
 
@@ -26,9 +31,13 @@ Through this project, I aimed to learn and practice:
 
 This project prioritizes process and understanding over leaderboard performance.
 
+<img width="237" height="388" alt="prediction format" src="https://github.com/user-attachments/assets/e7f78ff6-837f-4841-a84e-0d4a3229208c" />
 
 ## Dataset
 Source: Kaggle – [Bluebook for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers/data)
+
+<img width="1108" height="310" alt="first 5 row DataFrame" src="https://github.com/user-attachments/assets/55380191-e73c-49f7-b976-1a883e660138" />
+
 Files Used
 File	Description
 - Train.csv	Training data (sales before 2012)
