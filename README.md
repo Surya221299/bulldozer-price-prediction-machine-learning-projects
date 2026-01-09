@@ -70,6 +70,7 @@ The notebook is structured to follow a learning-friendly ML pipeline.
 - Identifying patterns and anomalies
 
 3. Feature Engineering
+   <img width="742" height="102" alt="Screenshot 2026-01-09 at 19 07 20" src="https://github.com/user-attachments/assets/ffbaf37c-afda-4860-b7a8-509cbeab58de" />
   Extracted features from saledate:
   - Year
   - Month
