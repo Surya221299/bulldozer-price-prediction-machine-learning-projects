@@ -1,7 +1,7 @@
 # Bulldozer Sale Price Prediction  – Time Series Machine Learning
 Learning & Implementation – Time Series Machine Learning
 
-<img width="749" height="436" alt="Screenshot 2026-01-09 at 18 45 21" src="https://github.com/user-attachments/assets/463f5bc4-d461-4f59-be0b-06d8309d6105" />
+<img width="2400" height="941" alt="steps machine learning project" src="https://github.com/user-attachments/assets/159ade03-841f-4ad8-8ef7-ae6c3673ba9e" />
 
 
 ## Project Purpose
@@ -123,7 +123,8 @@ The goal here is understanding model behavior, not perfect accuracy.
 
 ## Model Interpretation
 
-<img width="509" height="263" alt="Screenshot 2026-01-09 at 19 04 32" src="https://github.com/user-attachments/assets/dfa9e489-d760-4c11-9dbb-77d3479fa12f" />
+<img width="749" height="436" alt="plot feature importance" src="https://github.com/user-attachments/assets/b97e5f97-1450-4343-a59e-70b67daf724f" />
+
 
 Feature importance analysis is used to:
 
