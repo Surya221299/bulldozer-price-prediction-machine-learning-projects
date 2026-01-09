@@ -95,7 +95,9 @@ Chosen because:
 - Requires minimal feature scaling
 - Provides feature importance for learning purposes
 
-<img width="302" height="112" alt="Screenshot 2026-01-09 at 19 01 45" src="https://github.com/user-attachments/assets/7a4919f2-3596-49d2-963a-5149a6cc2983" />
+## Hyperparameter Tuning
+
+<img width="827" height="622" alt="Screenshot 2026-01-09 at 19 10 11" src="https://github.com/user-attachments/assets/0e40a65c-38d5-422c-adbd-6a845a13ca79" />
 
 Hyperparameters:
 - n_estimators
